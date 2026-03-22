@@ -13,3 +13,15 @@ print ("python's world")
 # python back slash is to continuation of the string. You can stretch a single statement across multiple lines.
 print("what you think \
 you become")
+# Escape sequence of the string
+# It allow you to put special character such as the tab, the new line, and the backspace into your strings. 
+# \b Backspace
+# \a sound system bell
+#  \n newline
+#  \t horizontal tab 
+#  \\ the \character
+#  \' single quotation mark 
+#  \" double quotation mark
+print ('\a')
+print ('\t\tpython')
+print('I know , you are \'magnificent')
