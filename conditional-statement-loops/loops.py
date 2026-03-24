@@ -9,3 +9,7 @@ for each in range(10):               # yaha vertical printing hogi
 
 for hey in range(7):         #end="" use kiya hai horizontal printing k liye     
     print(hey,end=" ")    
+
+for some in range(5):
+    print("hello")
+print("done")    
