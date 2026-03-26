@@ -16,3 +16,9 @@ while True:
     if n ==0:
         break
 print("total is ", sum1)      
+#  Continue statement : It is used to skip tje current iteration.
+#  With the continue statement, the loop does not terminate, but continue with the next iteration. 
+list1 = [1,2,3,4,5,6,7,8,9]
+for i in list1: 
+    c = 10/i*100
+    print("percent is ", c)
