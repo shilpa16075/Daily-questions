@@ -9,5 +9,5 @@ match num:
         print("multiply")
     case 4:
         print("Division")
-    case 5:
+    case default:
         print("invalid choice")
