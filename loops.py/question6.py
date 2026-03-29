@@ -1,12 +1,3 @@
-#  print a pattern 
-# *
-# **
-# ***
-# ****
-# *****
-for i in range(1,5):
-    print("*"* i)
-n = 1 
-while n<=6:
-    print("*" * n)
-    n = n + 1
+#  write a program to count number to vowel in a string using a loop.
+word = input("Enter a word: ")
+vowel = "aeiouAEIOU"
