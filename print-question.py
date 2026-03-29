@@ -4,6 +4,7 @@ print("what you think \
 you become")
 print ('\a')
 print ('\t\tpython')
+print(("shilpa " + '\n') * 10 )
 print('I know , you are \'magnificent')
 print ("%s %14.2f %11d" % ("Shilpa", 80.67,27))
 print ("%s %12.2f %11d" % ("Chirkut", 80.67,27))
