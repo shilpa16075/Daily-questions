@@ -16,8 +16,11 @@ while n<=6:
     print("*"*n)   # print string * the value of n 
     n=n+1          # increment to next value
 
-n = 6 
-while n>=0:
-    print("*"* n)
-    n = n-1
+
+
+# reverse pattern 
+n = 6             # initial value     
+while n>=0:       # condition
+    print("*"* n) 
+    n = n-1       # decrement 
 
