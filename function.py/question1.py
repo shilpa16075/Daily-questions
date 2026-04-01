@@ -7,7 +7,11 @@ def sumfun(a,b):
     return "Shilpa"
     print("end");
 
-square = lambda x:x**2
+# square = lambda x:x**2
+
+
+# square(3)
+
 
 def squarefun(x):
     return x**2
