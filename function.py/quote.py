@@ -6,4 +6,4 @@ inspire()
 def good_morning():
     print("Good morning")
 
-good_morning()
+good_morning
