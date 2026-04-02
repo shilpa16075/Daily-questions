@@ -4,8 +4,12 @@ class Laptop():
     RAM = "8gb"
     price = "1.2lac"
 
-electronic = Laptop()
-print(Laptop.brand)
+laptop1 = Laptop()
+Laptop.RAM = "8gb"
+print(Laptop.RAM,Laptop.price)
 
-Laptopp = Laptop()
-print(Laptop.price)
+laptop2 = Laptop()
+Laptop.brand = "lenovo"
+print(Laptop.brand,Laptop.price)
+
+
