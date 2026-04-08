@@ -7,3 +7,4 @@ print(name[-1])
 print(name[-2])
 # To access last characters of the unknown string we use str[-x:]
 print(name[-3:])
+print(len(name))
