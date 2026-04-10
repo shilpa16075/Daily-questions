@@ -2,7 +2,7 @@
 num = int(input('enter number of your choice: '))
 if num>0:
     print("Number is Postive!!!")
-elif num==0:
-    print("Number is equal to Zero")
-else:
+elif num<0:
     print("Number is Negative")
+else:
+    print("Number is equal to Zero")
