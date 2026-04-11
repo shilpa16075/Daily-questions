@@ -1,7 +1,9 @@
 # list basics 
-n = int(input("enter a number: "))
-number_list = []
-for i in range(n):
-    a = int(input("enter values for the list: "))
-    number_list.insert(i,a)
-print("entered list",number_list)
+name = "shilpa","chirag","chisai"
+print(list(name))
+# list concatination
+num = [87]
+num1 = [57]
+num2 = [105]
+num_list = num + num1 + num2
+print(list(num_list))
