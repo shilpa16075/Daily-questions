@@ -2,4 +2,5 @@
 # Print the final result to the console.
 user1= int(input("Enter the number of your choice: "))
 user2 = int(input("Enter the second number: "))
-print(user1*user2)
+result = user1*user2
+print("The multiplication of two number is:",result)
