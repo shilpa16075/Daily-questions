@@ -1,3 +1,4 @@
 # Display variables with a separator
 print("Name***is****james****")
-print("name", 'is', 'james', sep='*****')
+# sep() decides what comes between multiple printed values.
+print("name", 'is', 'james', sep='*****')     
