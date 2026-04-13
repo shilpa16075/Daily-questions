@@ -1,2 +1,0 @@
-# Daily-questions
-Daily progress
