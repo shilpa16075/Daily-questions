@@ -1,6 +1,7 @@
-# Check if the string is palinedrome
+# Check if the string is palindrome
 word = input('Enter the word of your choice: ')
-if word ==word[::-1]:
+clean_word = word.lower()
+if clean_word ==clean_word[::-1]:
     print("It's a palindrome")
 else:
     print("It's not a palindrome!!!")
