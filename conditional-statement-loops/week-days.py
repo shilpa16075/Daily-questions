@@ -12,7 +12,7 @@ elif day_num==5:
     print('Friday')
 elif day_num==6:
     print('Saturday')
-elif day_num==6:
+elif day_num==7:
     print('Sunday')
 else:
     print('Invalid Number!!!!!')
