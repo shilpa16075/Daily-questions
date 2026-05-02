@@ -1,10 +1,10 @@
 # Write a program to print the sum of n natural numbers.
-sum = 0
+total_sum = 0
 number = 1
 n = 10
 while number<=n:
-    sum = sum+number
-    print(sum)
+    total_sum = total_sum+number
+    print(total_sum)
     number+=1
     
-print(f"The sum of first {n} is: {sum}")
+print(f"The sum of first {n} is: {total_sum}")
