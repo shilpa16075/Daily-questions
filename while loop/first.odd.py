@@ -5,6 +5,5 @@ while count<10:
     if number%2!=0:
         print(number)
         count = count+1
-
     number+=1
    
