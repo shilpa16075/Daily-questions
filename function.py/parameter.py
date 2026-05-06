@@ -1,7 +1,8 @@
-def average(a,b):         # here a and b is the parameter    
-    averagevalue= a+b/2
-    print(averagevalue)
-# function calling with arguments 
-average(4,5)
-average(27,19)
-average(3,7)    
+# Write a python function for average of the number.
+def average_number(a=2,b=7):
+    average = (a+b)/2
+    print(f'The average of {a} and {b} is {average}')
+
+average_number(5,7)
+average_number()
+average_number(34,90)
