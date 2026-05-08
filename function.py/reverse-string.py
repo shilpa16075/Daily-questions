@@ -1,1 +1,10 @@
 # write a python function to reverse a string.
+def reverse_string(text):
+    rev = ""
+    for ch in text:
+        rev = ch + rev
+    return rev
+
+# Example usage
+s = input("Enter a string: ")
+print("Reversed string:", reverse_string(s))
