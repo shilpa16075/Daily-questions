@@ -6,5 +6,6 @@ student = {
 }
 print(student['Grade'])
 print(student['Roll no'])
+print(student.get('Grade'))    # .get method()
 student.clear()
 print(student)   # To clear the whole dictionary 
