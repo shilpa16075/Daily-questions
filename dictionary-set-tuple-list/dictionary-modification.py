@@ -14,6 +14,7 @@ phone_no['priti'] = phone_no['ajay'] # replace and delete
 del phone_no['ajay']
 print(phone_no)
 phone_no['shilon'] =[124674,4562344,689472]    # storing list in dictionary
+print(phone_no['shilon'][0])      # To access the list index value
 print(phone_no['shilon'])
 phone_no['ravi'] = 24715   # add new key-value pair
 print(phone_no)
