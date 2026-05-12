@@ -10,7 +10,7 @@ def student_grade(data):
     '''This function is called marks grader'''
     marks_grade = {}
     for i,j in data.items():
-        if 91<=j<=100:
+        if 91<=j:
             grade = "A+"
         elif 81<=j<=90:
             grade = 'A'
