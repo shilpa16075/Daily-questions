@@ -1,3 +1,4 @@
 " We never know the value of a moment 
 until it becomes a memory"
 
+If there's something worst then failure, it's regret
