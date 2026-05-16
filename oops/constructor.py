@@ -1,7 +1,7 @@
 class student:
 
-    def __init__(self,fullname):
-        self.name = fullname
+    def __init__(self,fullname):       # fullname = given parameter
+        self.name = fullname    #self.name =  new name created in object
         print('adding new student in database')
 
 s1= student('shilon')
