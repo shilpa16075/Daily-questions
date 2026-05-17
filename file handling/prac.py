@@ -1,3 +1,3 @@
-f = open('file.txt','w')
-f.write('hello world')
-f.close()
+f = open('file.txt','w')    # open a file name file.txt in write mode
+f.write('hello world')      #operation is performed
+f.close()                   # closing the file 
