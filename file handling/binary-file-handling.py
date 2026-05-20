@@ -4,4 +4,4 @@ with open(r"C:\Users\PC\Pictures\Screenshots\Screenshot 2026-05-17 213046.png",'
     data = source.read()
 
 with open(r"C:\Users\PC\Pictures\Screenshots\Screenshot 2026-05-17 213046.png",'wb') as destination:
-    data = destination.write()
+    data = destination.write("")
