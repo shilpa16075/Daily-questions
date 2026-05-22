@@ -4,6 +4,6 @@ def calculation(a,b):
     c = a+b
     d = a-b
     return c,d
-sum_result,sub_result = calculation(57,43)
+sum_result,sub_result = calculation(57,43)    #tuple unpacking
 print("addition:",sum_result)
 print('subtraction',sub_result)
