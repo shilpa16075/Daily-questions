@@ -6,4 +6,5 @@ def show_employee(name,salary=9000):
 
 show_employee('kunal',17000)
 show_employee('karan')
+show_employee('Ravi',9000)
 
