@@ -6,7 +6,8 @@ def outer(a,b):
         # print('sum of a,b is',sum)
         sum1 = sum +5
         return sum,sum1
+    addition(sum)
 
-    result = print(addition(1,2))
+result = print(outer(2,3))
 
 
