@@ -4,6 +4,6 @@
 def show_employee(name,salary=9000):
     print(f'Employee name is {name} and the salary is {salary}')
 
-show_employee('kunal',10000)
+show_employee('kunal',17000)
 show_employee('karan')
 
