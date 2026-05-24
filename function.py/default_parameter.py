@@ -8,6 +8,7 @@ def details(name="Ram", age= 20):
     print(f"{name} is {age} year old")
 
 details("shilpa",20)
+details()
 
 
 
