@@ -1,3 +1,4 @@
+# write a program to print average of 2 numbers
 digit_sum = 0
 i = 0 
 while i<10:
