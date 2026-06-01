@@ -1,3 +1,4 @@
+# write a program to take 2 list
 list = [1,3,2]
 list2 = [4,5,6]
 for i in list:
