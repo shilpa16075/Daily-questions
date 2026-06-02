@@ -12,7 +12,7 @@ except IndexError:
 
 except ValueError:
     # Ye tab chalega jab user number ki jagah text daal de
-    print("Error: Please sirf number enter karein.")
+    print("Error: Please enter number only")
 
 finally:
     print("Task completed.")
