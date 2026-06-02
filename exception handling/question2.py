@@ -8,7 +8,7 @@ try:
 
 except IndexError:
     # Ye tab chalega jab index list ki range se bahar ho
-    print("Error: Wo index list mein hai hi nahi!")
+    print("Error: not exist in the list!")
 
 except ValueError:
     # Ye tab chalega jab user number ki jagah text daal de
