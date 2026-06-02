@@ -11,7 +11,7 @@ except IndexError:
     print("Error: not exist in the list!")
 
 except ValueError:
-    # Ye tab chalega jab user number ki jagah text daal de
+    # execute when user enter text instead of number
     print("Error: Please enter number only")
 
 finally:
