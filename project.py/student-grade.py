@@ -40,6 +40,6 @@ plt.pie(
 plt.title('🎓 Student Marks & Grade Distribution', fontsize=14, fontweight='bold')
 plt.tight_layout()
 
-
+# show chart
 print("📊 Displaying Grade Distribution Pie Chart...")
 plt.show()
