@@ -1,4 +1,4 @@
-height = int(input("enter your height: "))  # ch
+height = int(input("enter your height: "))  # change this to test!!!
 
 if height >=45:
   print("You can ride! 🎢")
